@@ -1,2 +1,3 @@
 build.sh
-arduino-language-server*
+/arduino-language-server*
+!/arduino-language-server*/
